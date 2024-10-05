@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Crónicas Marcianas",
+        "author": "Ray Bradbury",
+        "price": 10.99,
+        "img": "images/FICCION/cronicas-marcianas.jpg",
+        "category": "ciencia_ficcion"
+    },
+    {
+        "id": 2,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "price": 14.99,
+        "img": "images/FICCION/dune.jpg",
+        "category": "ciencia_ficcion"
+    },
+    {
+        "id": 3,
+        "title": "El Mundo Invertido",
+        "author": "Christopher Priest",
+        "price": 12.99,
+        "img": "images/FICCION/el-mundo-invertido.jpg",
+        "category": "ciencia_ficcion"
+    },
+    {
+        "id": 4,
+        "title": "Yo, Robot",
+        "author": "Isaac Asimov",
+        "price": 11.99,
+        "img": "images/FICCION/I-ROBOT.jpg",
+        "category": "ciencia_ficcion"
+    },
+    {
+        "id": 5,
+        "title": "The War of the Worlds",
+        "author": "H.G. Wells",
+        "price": 9.99,
+        "img": "images/FICCION/the-war-of-the-worlds.jpg",
+        "category": "ciencia_ficcion"
+    },
+    {
+        "id": 6,
+        "title": "Archivo Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "price": 9.99,
+        "img": "images/POLICIALES/ARCHIVO-SHERLOCK-HOLMES.jpg",
+        "category": "policiales"
+    },
+    {
+        "id": 7,
+        "title": "Corrupción Policial",
+        "author": "Don Wislow",
+        "price": 7.99,
+        "img": "images/POLICIALES/CORRUPCION-POLICIAL.jpg",
+        "category": "policiales"
+    },
+    {
+        "id": 8,
+        "title": "Crimen Perfecto",
+        "author": "Angel Rodriguez Kaut",
+        "price": 8.99,
+        "img": "images/POLICIALES/crimen_perfecto.jpg",
+        "category": "policiales"
+    },
+    {
+        "id": 9,
+        "title": "El Último Policía",
+        "author": "Ben H Winters",
+        "price": 8.99,
+        "img": "images/POLICIALES/ElUltimoPolicia.jpg",
+        "category": "policiales"
+    },
+    {
+        "id": 10,
+        "title": "IT",
+        "author": "Stephen King",
+        "price": 13.99,
+        "img": "images/TERROR/IT.jpg",
+        "category": "terror"
+    },
+    {
+        "id": 11,
+        "title": "Asylum",
+        "author": "Madely Rouse",
+        "price": 11.99,
+        "img": "images/TERROR/ASYLUM.jpg",
+        "category": "terror"
+    },
+    {
+        "id": 12,
+        "title": "El Exorcista",
+        "author": "William Peter Blatty",
+        "price": 12.99,
+        "img": "images/TERROR/EL-EXORCISTA.jpg",
+        "category": "terror"
+    }
+]
